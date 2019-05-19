@@ -1,5 +1,8 @@
 # LowComplexitySequence
 
+For more about dot plots:
+https://en.wikipedia.org/wiki/Dot_plot_(bioinformatics)
+
 A simple, de-novo approach to finding low-complexity regions in a DNA
 or protein sequence.
 
