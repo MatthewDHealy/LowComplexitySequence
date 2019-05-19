@@ -21,3 +21,6 @@ The Fasta file was downloaded from NCBI.
 
 Code and documentation are Copyright 2019, Matthew D Healy,
 and released under GNU GENERAL PUBLIC LICENSE Version 3
+
+Watch this space: I may try the tool on other genomes.  And will probably dig deeper into the hits.
+All I have done so far is proof of concept.
