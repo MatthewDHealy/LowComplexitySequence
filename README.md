@@ -18,3 +18,6 @@ Windows.
 The PDF file has an example of running the script and its output.
 The Excel file was used for that example.
 The Fasta file was downloaded from NCBI.
+
+Code and documentation are Copyright 2019, Matthew D Healy,
+and released under GNU GENERAL PUBLIC LICENSE Version 3
