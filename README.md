@@ -1,7 +1,21 @@
 # LowComplexitySequence
 
+I threw the sequence for Human Chromosome 7, NC_000007.14, at my tool.
+Some examples of the hits it found are at:
+https://github.com/MatthewDHealy/LowComplexitySequence/blob/master/InterestingHuman_Chr7_FiveExampleHits.png
+Since repeats in the human genome have been studied so extensively, I very much doubt my simple tool will
+find much novel science.  But for less-well-studied genomes, I think it might have some value.
+These hits represent proof of concept.  As does the fact that I was able to throw an entire human
+chromosome sequence at my tool and get these results in about half an hour on my personal laptop.
+So this algorithm is scalable to large genomes.
+
+
 For more about dot plots:
 https://en.wikipedia.org/wiki/Dot_plot_(bioinformatics)
+
+Note that dot plots made by the NCBI Blast Web Page are based on the
+HSPs found by Blast.  So they are simpler and cleaner than dot plots
+made by many other tools.
 
 A simple, de-novo approach to finding low-complexity regions in a DNA
 or protein sequence.
