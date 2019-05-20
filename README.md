@@ -9,6 +9,9 @@ These hits represent proof of concept.  As does the fact that I was able to thro
 chromosome sequence at my tool and get these results in about half an hour on my personal laptop.
 So this algorithm is scalable to large genomes.
 
+I made a new version that concatenates the reverse complement of each sequence chunk
+before the compression step.  So far that hasn't found any hits that didn't also come
+up with the forward-only algorithm, but this is very much a work in progress.
 
 For more about dot plots:
 https://en.wikipedia.org/wiki/Dot_plot_(bioinformatics)
